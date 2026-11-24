@@ -1,0 +1,455 @@
+graph,operation,delta,beta_changed
+Path P12,edge addition,0.22871463186621632,True
+Path P12,edge addition,0.2647982918150191,True
+Path P12,edge addition,0.271549706210803,True
+Path P12,edge addition,0.2894420506587916,True
+Path P12,edge addition,0.2892353331457169,True
+Path P12,edge addition,0.2892808032730332,True
+Path P12,edge addition,0.2922399933922475,True
+Path P12,edge addition,0.27832288391492277,True
+Path P12,edge addition,0.2975175772535432,True
+Path P12,edge addition,0.27686161931705877,True
+Path P12,edge addition,0.2546870081557988,True
+Path P12,edge addition,0.2668631558064325,True
+Path P12,edge addition,0.2748910454959419,True
+Path P12,edge addition,0.26912202255559636,True
+Path P12,edge addition,0.2894717779616842,True
+Path P12,edge addition,0.2780963661561664,True
+Path P12,edge addition,0.30009919843822974,True
+Path P12,edge addition,0.2879337931798487,True
+Path P12,edge addition,0.2975175772535432,True
+Path P12,edge addition,0.27283943626991247,True
+Path P12,edge addition,0.27321088731446164,True
+Path P12,edge addition,0.2789403664750414,True
+Path P12,edge addition,0.26748959881543,True
+Path P12,edge addition,0.2870937759435752,True
+Path P12,edge addition,0.2676320552984661,True
+Path P12,edge addition,0.30009919843822974,True
+Path P12,edge addition,0.27832288391492277,True
+Path P12,edge addition,0.28427753664669453,True
+Path P12,edge addition,0.2775536874783908,True
+Path P12,edge addition,0.280427097109492,True
+Path P12,edge addition,0.26693011256962773,True
+Path P12,edge addition,0.2870937759435752,True
+Path P12,edge addition,0.2780963661561664,True
+Path P12,edge addition,0.2922399933922475,True
+Path P12,edge addition,0.28972206439008374,True
+Path P12,edge addition,0.2790575749802442,True
+Path P12,edge addition,0.280427097109492,True
+Path P12,edge addition,0.26748959881543,True
+Path P12,edge addition,0.2894717779616842,True
+Path P12,edge addition,0.2892808032730332,True
+Path P12,edge addition,0.28972206439008374,True
+Path P12,edge addition,0.2775536874783908,True
+Path P12,edge addition,0.2789403664750414,True
+Path P12,edge addition,0.26912202255559636,True
+Path P12,edge addition,0.2892353331457169,True
+Path P12,edge addition,0.28427753664669453,True
+Path P12,edge addition,0.27321088731446164,True
+Path P12,edge addition,0.2748910454959419,True
+Path P12,edge addition,0.2894420506587916,True
+Path P12,edge addition,0.27283943626991247,True
+Path P12,edge addition,0.2668631558064325,True
+Path P12,edge addition,0.271549706210803,True
+Path P12,edge addition,0.2546870081557988,True
+Path P12,edge addition,0.2647982918150191,True
+Path P12,edge addition,0.22871463186621632,True
+Path P12,vertex deletion,0.002817254326989649,False
+Path P12,vertex deletion,0.002817254326989649,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.032271907639355835,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.032271907639355835,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.032271907639355835,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.032271907639355835,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.032271907639355835,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.032271907639355835,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.011294274982328822,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.028149057372503172,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge addition,0.01259297803421644,False
+Cycle C12,edge addition,0.023204009210157306,False
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,edge deletion,-0.27686161931705877,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Cycle C12,vertex deletion,-0.07441134130305238,True
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge addition,0.05368994344989586,True
+Grid 3 x 4,edge addition,0.014919886982706743,False
+Grid 3 x 4,edge addition,0.056539043742264816,True
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge addition,-0.024070625059627204,False
+Grid 3 x 4,edge addition,0.05086198386426766,True
+Grid 3 x 4,edge addition,0.012098253397546443,False
+Grid 3 x 4,edge addition,0.05089138971210749,True
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge addition,0.006033224575432872,False
+Grid 3 x 4,edge addition,0.006049126698773222,False
+Grid 3 x 4,edge addition,0.05073057635931111,True
+Grid 3 x 4,edge addition,0.05086198386426766,True
+Grid 3 x 4,edge addition,-0.024070625059627204,False
+Grid 3 x 4,edge addition,0.04147850130670783,True
+Grid 3 x 4,edge addition,0.012098253397546443,False
+Grid 3 x 4,edge addition,0.05073057635931111,True
+Grid 3 x 4,edge addition,0.006049126698773222,False
+Grid 3 x 4,edge addition,0.006033224575432872,False
+Grid 3 x 4,edge addition,0.012098253397546443,False
+Grid 3 x 4,edge addition,0.04147850130670783,True
+Grid 3 x 4,edge addition,-0.024070625059627204,False
+Grid 3 x 4,edge addition,0.05086198386426766,True
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge addition,0.056539043742264816,True
+Grid 3 x 4,edge addition,0.014919886982706743,False
+Grid 3 x 4,edge addition,0.05089138971210749,True
+Grid 3 x 4,edge addition,0.012098253397546443,False
+Grid 3 x 4,edge addition,0.05086198386426766,True
+Grid 3 x 4,edge addition,-0.024070625059627204,False
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge addition,0.05372514147712737,True
+Grid 3 x 4,edge addition,0.006033224575432872,False
+Grid 3 x 4,edge addition,0.05073057635931111,True
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge addition,0.014919886982706743,False
+Grid 3 x 4,edge addition,0.006049126698773222,False
+Grid 3 x 4,edge addition,0.056539043742264816,True
+Grid 3 x 4,edge addition,0.056539043742264816,True
+Grid 3 x 4,edge addition,0.006049126698773222,False
+Grid 3 x 4,edge addition,0.014919886982706743,False
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge addition,0.05073057635931111,True
+Grid 3 x 4,edge addition,0.006033224575432872,False
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge addition,0.05368994344989586,True
+Grid 3 x 4,edge addition,0.02407062505962765,False
+Grid 3 x 4,edge deletion,-0.012035453469287027,False
+Grid 3 x 4,edge deletion,-0.010366441898526091,False
+Grid 3 x 4,edge deletion,0.0,False
+Grid 3 x 4,edge deletion,0.02407062505962765,False
+Grid 3 x 4,edge deletion,0.0,False
+Grid 3 x 4,edge deletion,-0.010366441898526091,False
+Grid 3 x 4,edge deletion,-0.012035453469287027,False
+Grid 3 x 4,edge deletion,-0.012035453469287027,False
+Grid 3 x 4,edge deletion,0.0,False
+Grid 3 x 4,edge deletion,0.0,False
+Grid 3 x 4,edge deletion,0.0,False
+Grid 3 x 4,edge deletion,0.0,False
+Grid 3 x 4,edge deletion,0.0,False
+Grid 3 x 4,edge deletion,-0.012035453469287027,False
+Grid 3 x 4,edge deletion,-0.010366441898526091,False
+Grid 3 x 4,edge deletion,0.02407062505962765,False
+Grid 3 x 4,edge deletion,-0.010366441898526091,False
+Grid 3 x 4,vertex deletion,-0.0013431098034226707,False
+Grid 3 x 4,vertex deletion,-0.004677835741652148,False
+Grid 3 x 4,vertex deletion,-0.004677835741652148,False
+Grid 3 x 4,vertex deletion,-0.0013431098034226707,False
+Grid 3 x 4,vertex deletion,-0.008135407933645755,False
+Grid 3 x 4,vertex deletion,-0.0018704224815601078,False
+Grid 3 x 4,vertex deletion,-0.0018704224815601078,False
+Grid 3 x 4,vertex deletion,-0.008135407933645755,False
+Grid 3 x 4,vertex deletion,-0.0013431098034226707,False
+Grid 3 x 4,vertex deletion,-0.004677835741652148,False
+Grid 3 x 4,vertex deletion,-0.004677835741652148,False
+Grid 3 x 4,vertex deletion,-0.0013431098034226707,False
+"Random tree, n=12",edge addition,-0.006319068846926346,False
+"Random tree, n=12",edge addition,-0.020231920195338038,True
+"Random tree, n=12",edge addition,-0.01250148755604652,True
+"Random tree, n=12",edge addition,0.0016467910498882965,False
+"Random tree, n=12",edge addition,0.008699748846339173,False
+"Random tree, n=12",edge addition,-0.014113387149151002,True
+"Random tree, n=12",edge addition,0.0118719026411509,False
+"Random tree, n=12",edge addition,0.0031435012232199355,False
+"Random tree, n=12",edge addition,0.005528853720111915,False
+"Random tree, n=12",edge addition,-0.039217524989581865,True
+"Random tree, n=12",edge addition,-0.001240294505501005,False
+"Random tree, n=12",edge addition,-0.03308463294600772,True
+"Random tree, n=12",edge addition,0.006638863756584623,False
+"Random tree, n=12",edge addition,-0.027594987502510993,True
+"Random tree, n=12",edge addition,-0.0203507444756732,True
+"Random tree, n=12",edge addition,0.0038942492065849876,False
+"Random tree, n=12",edge addition,-0.01123710830964253,True
+"Random tree, n=12",edge addition,-0.029867433852997394,True
+"Random tree, n=12",edge addition,-0.001240294505501005,False
+"Random tree, n=12",edge addition,0.0019011951120151416,True
+"Random tree, n=12",edge addition,-0.010112875192534343,True
+"Random tree, n=12",edge addition,0.013081883687412255,False
+"Random tree, n=12",edge addition,0.008864897963141605,False
+"Random tree, n=12",edge addition,0.005834946585749012,False
+"Random tree, n=12",edge addition,-0.020231920195338038,True
+"Random tree, n=12",edge addition,0.006638863756584623,False
+"Random tree, n=12",edge addition,-0.027594987502510993,True
+"Random tree, n=12",edge addition,-0.0203507444756732,True
+"Random tree, n=12",edge addition,0.0038942492065849876,False
+"Random tree, n=12",edge addition,-0.01123710830964253,True
+"Random tree, n=12",edge addition,-0.029867433852997394,True
+"Random tree, n=12",edge addition,-0.006319068846926346,False
+"Random tree, n=12",edge addition,0.007106379032267629,False
+"Random tree, n=12",edge addition,0.015228816224206021,False
+"Random tree, n=12",edge addition,0.01727267349590189,False
+"Random tree, n=12",edge addition,0.01727267349590189,False
+"Random tree, n=12",edge addition,0.01727267349590189,False
+"Random tree, n=12",edge addition,-0.01250148755604652,True
+"Random tree, n=12",edge addition,0.007932052471659734,False
+"Random tree, n=12",edge addition,0.006330206164016694,False
+"Random tree, n=12",edge addition,-0.016165074060302764,True
+"Random tree, n=12",edge addition,-0.03733378662104059,True
+"Random tree, n=12",edge addition,0.0016467910498882965,False
+"Random tree, n=12",edge addition,0.01064557377918307,False
+"Random tree, n=12",edge addition,0.002128590126522223,True
+"Random tree, n=12",edge addition,0.026721323651405893,True
+"Random tree, n=12",edge addition,-0.03929156973667958,True
+"Random tree, n=12",edge addition,0.008699748846339173,False
+"Random tree, n=12",edge addition,0.011874230587600287,False
+"Random tree, n=12",edge addition,-0.014113387149151002,True
+"Random tree, n=12",edge addition,0.03233359410554337,True
+"Random tree, n=12",edge addition,0.01732807992289187,False
+"Random tree, n=12",edge addition,0.0118719026411509,False
+"Random tree, n=12",edge addition,0.0031435012232199355,False
+"Random tree, n=12",edge addition,0.005528853720111915,False
+"Random tree, n=12",vertex deletion,0.0016449869095600533,False
+"Random tree, n=12",vertex deletion,0.0010421050938598242,False
+"Random tree, n=12",vertex deletion,0.0001905781819708796,False
+"Random tree, n=12",vertex deletion,0.0016449869095600533,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.007100973931789767,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,-0.003243999332612102,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.006603206302338016,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.0012224030609639946,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.0014097771462040498,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.004636218166123474,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.004406369209495775,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.002484554914356618,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.0018606349120826593,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.0020498532726098695,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.0026704163352651022,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.004147819044830303,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.003663780620962953,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.010722833184741098,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.00999131540120013,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.013756009274336733,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.000423243741471957,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.002534920980187927,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.01367375818420058,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,-0.004526083831638328,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.006925445873620539,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,-2.9380835250503168e-05,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.005639793523517511,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.0066246925521951106,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.006670324842430464,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.0023095123495546765,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.00732053780922115,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.0019223493857665197,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.005599501702021836,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,4.948887274869307e-05,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,-0.002061207957329003,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.003875033487026336,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,-0.002429764083723196,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.0053203502482230824,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,-0.0021506441633389883,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.001438066232831492,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.009882141539717004,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.002848330572007285,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.00357137209694125,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.010055909973770483,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.004526744763299728,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.009909024188786475,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.002002436952904585,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.00459055694763677,False
+"Erdos-Renyi, n=12, p=0.3",edge addition,0.004795255059786729,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,0.002673380571013073,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.007250298510365294,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,0.0012073626860633624,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.0009802973297414752,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,0.0007371308672015076,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.0010669453202023504,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.007434205890219037,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.004471291552742507,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,0.000351682582529822,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.0035363584432981376,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.0032313210066234888,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.007959108258619008,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.0053079187949633955,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.0067651664389347665,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.007353513495860664,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,0.00024999321160379395,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.0008771261325155599,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.0027163364363409492,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,0.0012224030609639946,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.004700543733062723,False
+"Erdos-Renyi, n=12, p=0.3",edge deletion,-0.009244967858514919,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.0008132292876055214,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,0.0003591919919406772,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.004862917036909109,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.0006030711181860271,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.0034263230450690685,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.0014040413650727723,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.0009949313487029876,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.002005380204543661,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.002787669387214642,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.004041439480440001,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.0018014609054678443,False
+"Erdos-Renyi, n=12, p=0.3",vertex deletion,-0.0059928979912349245,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.0008064657826798438,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0002913751529591835,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.006630829193533305,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.000834767048080387,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0069434762324962485,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0007145027806747528,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.007452230528468107,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.00034674373606202735,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.002108704564661945,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0012150502796921536,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.012338072802565492,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.0027913494334366185,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.005726500205771146,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.005542540373397742,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.003252714118640476,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0009875239866548036,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.005201819279836872,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.0003889330858619644,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0030205234830389394,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.000599792125175469,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.00017130282725297263,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.010134770523678505,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0014702598888542973,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.003983703044516673,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0009281632682140994,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.004822037366051024,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.001587284512808651,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0015024840930952799,False
+"Barabasi-Albert, n=12, m=2",edge addition,5.5426618183584964e-05,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.0063646784721616,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.0013132629885630465,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.004306040783324416,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.004267249945099749,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.0003510972939748669,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.00014142077536538622,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.0021587258041892987,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0012410053277132072,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0035077589661756114,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.0015540260014290652,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0010057876572378,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0038521011252310444,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.007887280415969311,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.005054399920622288,False
+"Barabasi-Albert, n=12, m=2",edge addition,-0.0008629224514424827,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0032740685896590627,False
+"Barabasi-Albert, n=12, m=2",edge addition,0.0034576177658229845,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.005288007136273087,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.006759413840124129,False
+"Barabasi-Albert, n=12, m=2",edge deletion,0.0013726583866993103,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.002244660022452827,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.008735934963614245,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.009623867705784939,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.004984524797450707,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.0076524304534295595,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.009006670933108918,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.012919781704137101,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.006341495425884247,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.0018728255304067964,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.0009360943492642271,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.003976214107542564,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.009085268035855076,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.010793846392635587,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.00276500003793112,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.006340792394824657,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.008176073346008117,False
+"Barabasi-Albert, n=12, m=2",edge deletion,-0.0036068417803383213,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.0059776757363796396,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.0013984728679806713,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.004791650657278601,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.0015011114883324295,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.006242513092093782,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.004213287357439199,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.005406977830276438,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.001204700011347981,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.002298715739482593,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.0012919145815636357,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-0.0014307863615425909,False
+"Barabasi-Albert, n=12, m=2",vertex deletion,-6.528443547360041e-05,False
+"2,2,4-Trimethylpentane",edge addition,0.025147085694919635,False
+"2,2,4-Trimethylpentane",edge addition,0.025108048745747347,False
+"2,2,4-Trimethylpentane",edge addition,0.03590317633616813,True
+"2,2,4-Trimethylpentane",edge addition,0.016674906889484475,True
+"2,2,4-Trimethylpentane",edge addition,0.016674906889484475,True
+"2,2,4-Trimethylpentane",edge addition,0.016674906889484475,True
+"2,2,4-Trimethylpentane",edge addition,0.0,False
+"2,2,4-Trimethylpentane",edge addition,0.0,False
+"2,2,4-Trimethylpentane",edge addition,0.0,False
+"2,2,4-Trimethylpentane",edge addition,0.0,False
+"2,2,4-Trimethylpentane",edge addition,0.025108048745747347,False
+"2,2,4-Trimethylpentane",edge addition,0.03590317633616813,True
+"2,2,4-Trimethylpentane",edge addition,0.016674906889484475,True
+"2,2,4-Trimethylpentane",edge addition,0.016674906889484475,True
+"2,2,4-Trimethylpentane",edge addition,0.016674906889484475,True
+"2,2,4-Trimethylpentane",edge addition,-0.004993377389763243,True
+"2,2,4-Trimethylpentane",edge addition,-0.004993377389763243,True
+"2,2,4-Trimethylpentane",edge addition,-0.004993377389763243,True
+"2,2,4-Trimethylpentane",edge addition,0.016551628793197715,True
+"2,2,4-Trimethylpentane",edge addition,0.016551628793197715,True
+"2,2,4-Trimethylpentane",edge addition,0.016551628793197715,True
+"2,2,4-Trimethylpentane",vertex deletion,0.001937276932313714,False
+"2,2,4-Trimethylpentane",vertex deletion,0.001937276932313714,False
+"2,2,4-Trimethylpentane",vertex deletion,-0.0036969355040864516,True
+"2,2,4-Trimethylpentane",vertex deletion,-0.0036969355040864516,True
+"2,2,4-Trimethylpentane",vertex deletion,-0.0036969355040864516,True

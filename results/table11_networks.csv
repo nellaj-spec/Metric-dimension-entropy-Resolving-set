@@ -1,0 +1,8 @@
+network,n,m,D,beta,bases,value,I_bits,I_norm,I_ecc/log2n,upper_bound,ilp_basis_vertices
+IEEE 14-bus power system,14,20,5,2,2,"I(G), basis average",3.624,0.952,0.998,3.75,
+4 x 4 grid (sensor field),16,24,6,2,4,"I(G), basis average",3.797,0.949,1.0,3.948,
+5 x 5 grid (sensor field),25,40,8,2,4,"I(G), basis average",4.401,0.948,1.0,4.607,
+Hypercube Q4 (interconnect),16,32,4,4,928,"I(G), basis average",3.885,0.971,1.0,3.922,
+Petersen graph,10,15,2,3,20,"I(G), basis average",3.22,0.969,1.0,3.239,
+Florentine families (social),15,20,5,3,24,"I(G), basis average",3.753,0.961,0.996,3.837,
+Zachary karate club (social),34,78,5,11,1 (ILP),"I_W(G), single basis",4.963,0.976,0.995,5.003,1 3 5 13 22 24 25 26 27 32 33

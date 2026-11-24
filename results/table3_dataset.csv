@@ -1,0 +1,7 @@
+class,molecules,n,beta,I_range_bits,I_norm_mean,I_norm_sd,mean_Imax_minus_Imin
+Alkanes C2-C10 (all isomers),149,2-10,1-4,0.918-3.181,0.94,0.015,0.071
+Cycloalkanes and cages,12,3-10,2-3,1.522-3.191,0.953,0.007,0.045
+Benzene derivatives,12,6-12,2-2,2.452-3.421,0.943,0.005,0.048
+Polycyclic aromatic hydrocarbons,12,10-24,2-3,3.132-4.395,0.945,0.007,0.093
+Drug-like molecules,20,9-19,2-3,2.985-4.067,0.946,0.006,0.059
+All,205,2-24,1-4,0.918-4.395,0.942,0.014,0.068

@@ -1,0 +1,5 @@
+Mann-Whitney unbranched (n=9) vs branched (n=140): U=0, p=5.27e-07
+Spearman I_norm vs metric dimension (149 alkanes): rho=0.793, p=1.65e-33
+Mean I_norm by metric dimension: {1: 0.886, 2: 0.938, 3: 0.947, 4: 0.953}
+Decanes, Spearman I vs H_orbit: rho=-0.166, p=0.156
+Decanes, Spearman I vs H_distance: rho=0.243, p=0.036

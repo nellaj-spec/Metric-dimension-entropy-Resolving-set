@@ -1,0 +1,14 @@
+measure,C8 (18),C9 (35),C10 (75),C2-C10 (149),distinct values
+Distance entropy,1.0,1.0,1.0,1.0,149
+von Neumann entropy,1.0,1.0,1.0,1.0,149
+Balaban index J,1.0,1.0,1.0,1.0,149
+Bonchev-Trinajstic entropy,1.0,0.971,0.987,0.987,147
+Proposed I(G),1.0,0.971,0.893,0.94,140
+Randic index R,0.889,0.8,0.653,0.765,114
+Wiener index W,0.889,0.457,0.533,0.611,91
+"Proposed, I_max(G) only",0.611,0.457,0.333,0.47,70
+Zagreb index M2,0.722,0.457,0.28,0.463,69
+Orbit entropy,0.611,0.343,0.24,0.403,60
+Degree entropy,0.389,0.229,0.133,0.275,41
+Zagreb index M1,0.333,0.2,0.107,0.248,37
+Platt index F,0.333,0.2,0.107,0.248,37

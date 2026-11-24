@@ -1,0 +1,13 @@
+I_max - I_min over 205 molecules: mean 0.068 bits (2.2% of I), max 0.290 bits (9.4%, 2-methylnonane)
+Ring-containing molecules: 56; Spearman rho(I, n) = 0.996
+Distinct (non-isomorphic) graphs among the 56 ring-containing molecules: 50
+  cubane        I = 2.889 bits, I_norm = 0.963
+  adamantane    I = 3.191 bits, I_norm = 0.960
+  coronene      I = 4.395 bits, I_norm = 0.959
+  mesitylene    I = 2.951 bits, I_norm = 0.931
+  aspirin       I = 3.446 bits, I_norm = 0.931
+  tetracene     I = 3.890 bits, I_norm = 0.933
+  anthracene    I = 3.574 bits, I_norm = 0.939
+  phenanthrene  I = 3.607 bits, I_norm = 0.947
+  chrysene      I = 3.967 bits, I_norm = 0.951
+  triphenylene  I = 3.901 bits, I_norm = 0.936

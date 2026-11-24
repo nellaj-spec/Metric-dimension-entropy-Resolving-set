@@ -1,0 +1,8 @@
+feature set,linear R2,linear RMSE (C),random forest R2,random forest RMSE (C)
+n,0.961,7.28,0.96,7.44
+"n, W",0.96,7.42,0.96,7.45
+"n, I",0.961,7.33,0.934,9.54
+"n, I, I_min, I_max, beta (proposed)",0.973,6.14,0.923,10.29
+"n, W, M1, M2, R, J (classical indices)",0.991,3.44,0.971,6.37
+n and the five entropies of Table 4,0.989,3.95,0.976,5.75
+Classical indices and proposed descriptors,0.99,3.67,0.96,7.41

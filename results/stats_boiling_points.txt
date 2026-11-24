@@ -1,0 +1,6 @@
+Alkanes per carbon number: {4: 2, 5: 3, 6: 5, 7: 8, 8: 17, 9: 32}
+Pearson r(I, bp), all 67: 0.95
+C8 (17 alkanes): r(I, bp) = -0.55, r(Randic, bp) = 0.84
+C9 (32 alkanes): r(I, bp) = -0.38, r(Randic, bp) = 0.67
+Wilcoxon signed-rank, |errors| classical vs classical+proposed: p = 0.29
+Random forests: 300 trees, random_state = 0

@@ -1,0 +1,19 @@
+graph,beta0,I0,operation,cases,mean_delta,min_delta,max_delta,pct_delta_positive,pct_beta_changed
+Path P12,1,3.083,edge addition,55,0.278,0.229,0.3,100,100
+Path P12,1,3.083,vertex deletion,2,0.003,0.003,0.003,100,0
+Cycle C12,2,3.36,edge addition,54,0.02,0.011,0.032,100,0
+Cycle C12,2,3.36,edge deletion,12,-0.277,-0.277,-0.277,0,100
+Cycle C12,2,3.36,vertex deletion,12,-0.074,-0.074,-0.074,0,100
+Grid 3 x 4,2,3.397,edge addition,49,0.026,-0.024,0.057,92,39
+Grid 3 x 4,2,3.397,edge deletion,17,-0.002,-0.012,0.024,12,0
+Grid 3 x 4,2,3.397,vertex deletion,12,-0.004,-0.008,-0.001,0,0
+"Random tree, n=12",3,3.401,edge addition,55,-0.003,-0.039,0.032,56,44
+"Random tree, n=12",3,3.401,vertex deletion,4,0.001,0.0,0.002,100,0
+"Erdos-Renyi, n=12, p=0.3",3,3.466,edge addition,45,0.004,-0.005,0.014,87,0
+"Erdos-Renyi, n=12, p=0.3",3,3.466,edge deletion,21,-0.003,-0.009,0.003,29,0
+"Erdos-Renyi, n=12, p=0.3",3,3.466,vertex deletion,12,-0.002,-0.006,0.0,8,0
+"Barabasi-Albert, n=12, m=2",3,3.466,edge addition,46,0.002,-0.007,0.012,67,0
+"Barabasi-Albert, n=12, m=2",3,3.466,edge deletion,20,-0.006,-0.013,0.001,5,0
+"Barabasi-Albert, n=12, m=2",3,3.466,vertex deletion,12,-0.003,-0.006,-0.0,0,0
+"2,2,4-Trimethylpentane",3,2.839,edge addition,21,0.013,-0.005,0.036,67,67
+"2,2,4-Trimethylpentane",3,2.839,vertex deletion,5,-0.001,-0.004,0.002,40,60

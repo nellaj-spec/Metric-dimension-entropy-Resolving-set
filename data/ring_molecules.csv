@@ -1,0 +1,57 @@
+name,class,smiles
+cyclopropane,Cycloalkanes and cages,C1CC1
+cyclobutane,Cycloalkanes and cages,C1CCC1
+cyclopentane,Cycloalkanes and cages,C1CCCC1
+cyclohexane,Cycloalkanes and cages,C1CCCCC1
+cycloheptane,Cycloalkanes and cages,C1CCCCCC1
+cyclooctane,Cycloalkanes and cages,C1CCCCCCC1
+methylcyclohexane,Cycloalkanes and cages,CC1CCCCC1
+norbornane,Cycloalkanes and cages,C1CC2CCC1C2
+bicyclo[2.2.2]octane,Cycloalkanes and cages,C1CC2CCC1CC2
+cubane,Cycloalkanes and cages,C12C3C4C1C5C2C3C45
+adamantane,Cycloalkanes and cages,C1C2CC3CC1CC(C2)C3
+decalin,Cycloalkanes and cages,C1CCC2CCCCC2C1
+benzene,Benzene derivatives,c1ccccc1
+toluene,Benzene derivatives,Cc1ccccc1
+phenol,Benzene derivatives,Oc1ccccc1
+aniline,Benzene derivatives,Nc1ccccc1
+ethylbenzene,Benzene derivatives,CCc1ccccc1
+styrene,Benzene derivatives,C=Cc1ccccc1
+o-xylene,Benzene derivatives,Cc1ccccc1C
+m-xylene,Benzene derivatives,Cc1cccc(C)c1
+p-xylene,Benzene derivatives,Cc1ccc(C)cc1
+mesitylene,Benzene derivatives,Cc1cc(C)cc(C)c1
+benzoic acid,Benzene derivatives,OC(=O)c1ccccc1
+biphenyl,Benzene derivatives,c1ccc(cc1)c1ccccc1
+naphthalene,Polycyclic aromatic hydrocarbons,c1ccc2ccccc2c1
+azulene,Polycyclic aromatic hydrocarbons,c1ccc2cccc2cc1
+acenaphthylene,Polycyclic aromatic hydrocarbons,C1=Cc2cccc3cccc1c23
+fluorene,Polycyclic aromatic hydrocarbons,C1c2ccccc2-c2ccccc12
+anthracene,Polycyclic aromatic hydrocarbons,c1ccc2cc3ccccc3cc2c1
+phenanthrene,Polycyclic aromatic hydrocarbons,c1ccc2c(c1)ccc1ccccc12
+pyrene,Polycyclic aromatic hydrocarbons,c1cc2ccc3cccc4ccc(c1)c2c34
+tetracene,Polycyclic aromatic hydrocarbons,c1ccc2cc3cc4ccccc4cc3cc2c1
+chrysene,Polycyclic aromatic hydrocarbons,c1ccc2c(c1)ccc1c3ccccc3ccc21
+triphenylene,Polycyclic aromatic hydrocarbons,c1ccc2c(c1)c1ccccc1c1ccccc21
+perylene,Polycyclic aromatic hydrocarbons,c1cc2cccc3c4cccc5cccc(c(c1)c23)c54
+coronene,Polycyclic aromatic hydrocarbons,c1cc2ccc3ccc4ccc5ccc6ccc1c1c2c3c4c5c61
+metformin,Drug-like molecules,CN(C)C(=N)N=C(N)N
+salicylic acid,Drug-like molecules,OC(=O)c1ccccc1O
+amphetamine,Drug-like molecules,CC(N)Cc1ccccc1
+paracetamol,Drug-like molecules,CC(=O)Nc1ccc(O)cc1
+dopamine,Drug-like molecules,NCCc1ccc(O)c(O)c1
+methamphetamine,Drug-like molecules,CNC(C)Cc1ccccc1
+nicotine,Drug-like molecules,CN1CCCC1c1cccnc1
+benzocaine,Drug-like molecules,CCOC(=O)c1ccc(N)cc1
+aspirin,Drug-like molecules,CC(=O)Oc1ccccc1C(=O)O
+serotonin,Drug-like molecules,NCCc1c[nH]c2ccc(O)cc12
+adrenaline,Drug-like molecules,CNCC(O)c1ccc(O)c(O)c1
+phenacetin,Drug-like molecules,CCOc1ccc(NC(C)=O)cc1
+caffeine,Drug-like molecules,Cn1cnc2c1c(=O)n(C)c(=O)n2C
+theophylline,Drug-like molecules,Cn1c2nc[nH]c2c(=O)n(C)c1=O
+ibuprofen,Drug-like molecules,CC(C)Cc1ccc(cc1)C(C)C(=O)O
+lidocaine,Drug-like molecules,CCN(CC)CC(=O)Nc1c(C)cccc1C
+procaine,Drug-like molecules,CCN(CC)CCOC(=O)c1ccc(N)cc1
+melatonin,Drug-like molecules,COc1ccc2[nH]cc(CCNC(C)=O)c2c1
+naproxen,Drug-like molecules,COc1ccc2cc(ccc2c1)C(C)C(=O)O
+diphenhydramine,Drug-like molecules,CN(C)CCOC(c1ccccc1)c1ccccc1
